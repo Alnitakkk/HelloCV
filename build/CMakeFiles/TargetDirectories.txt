@@ -1,0 +1,3 @@
+/home/alnitak/CPPTest/task./build/CMakeFiles/CryptoTool.dir
+/home/alnitak/CPPTest/task./build/CMakeFiles/edit_cache.dir
+/home/alnitak/CPPTest/task./build/CMakeFiles/rebuild_cache.dir
